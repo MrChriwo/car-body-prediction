@@ -401,6 +401,7 @@ FodyWeavers.xsd
 
 # data 
 /data/images/
+/data/images_2/*
 /data/stanford_cars_type/*
 
 
