@@ -21,3 +21,7 @@ running the project outsite the provided container requires an python environmen
 again, for running the model.ipynb notebook completly you will need to have an nvidia GPU or adjust the code for CPU usage. 
 Because computational benefit, we've used the GPU for the Notebook. 
 
+For using GPU it's highly recommended to use a Anaconda virtual enviornment. With that it's easy and fast to setup all dependencies 
+for the GPU usage. 
+
+[click here](https://www.tensorflow.org/install/pip) for more details setting up tensorflow with GPU usage. 
