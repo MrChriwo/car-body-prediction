@@ -3,7 +3,7 @@
 This project is regarding the standford-cars-dataset which is available on kaggle.
 Scope of this project is to predict the car body of a given image
 
-### Usage to test test the model 
+### Usage to test the model 
 
 opeen a terminal inside the project folder. While running docker desktop in background enter the following cmd: 
 
