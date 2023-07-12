@@ -7,7 +7,7 @@ Scope of this project is to predict the car body of a given image
 
 opeen a terminal inside the project folder. While running docker desktop in background enter the following cmd: 
 
-```docker build -t tf_env```
+```docker build -t tf_env .```
 
 after the image was successfully build, you can run the container with 
 
