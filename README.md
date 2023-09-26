@@ -1,7 +1,7 @@
 ## Car-Body-Prediction
 
-This project is regarding the standford-cars-dataset which is available on kaggle.
-Scope of this project is to predict the car size of a given image. 
+This project is regarding the stanford-cars-dataset which is available on kaggle.
+Scope of this project is to predict the car size of a given car image using a convolutional neuronal netowrk (CNN). 
 
 ### Team Members 
       - Dean Tomanelli 
